@@ -1,0 +1,50 @@
+body{
+  font-size: 16px;
+  background-color: #6FB3C7;
+  color: #21353B;
+  font-family: "Play", serif;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+h1,h2{
+  text-transform: capitalize;
+}
+nav li{
+display: inline;
+padding-right: 1em;
+}
+nav ul{
+  text-align: center;
+}
+nav li a{
+  text-decoration: none;
+  font-size: 1.5em;
+}
+header img{
+  display: block;
+  float: left;
+}
+nav {
+  background-color: #4B7987;
+}
+.foundation {
+  border: 1px solid black;
+  height: 180px;
+  border-radius: 20px 2px;
+  background-image: url("images/background3.jpg");
+
+}
+div foundation{
+
+}
+br.nofloat{
+  float: none;
+}
+aside{
+  float: right;
+  width: 30%;
+  border: 
+
+
+}
